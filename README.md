@@ -1,2 +1,2 @@
-# onlineStore
+# OnlineStore
 Project pembuatan tokoh online  
